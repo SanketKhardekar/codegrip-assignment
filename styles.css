@@ -105,6 +105,9 @@ a{
   background: #ffff;
   color: black;
 }
+.lang{
+  padding: 10px;
+}
 @media (min-width: 769px) {
   .header,
   .main-nav {
