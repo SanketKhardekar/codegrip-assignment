@@ -65,7 +65,19 @@ ul li.active {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
 }
-
+.empty-space{
+  height: 32px;
+}
+.span-text{
+  font-size: 14px; 
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+    color: #000000;
+}
+.quote-img{
+  width:30px; 
+  margin: 10px 191.672px 0px 191.656px;
+}
 @media (min-width: 769px) {
   .header,
   .main-nav {
