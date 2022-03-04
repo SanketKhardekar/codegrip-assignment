@@ -108,6 +108,10 @@ a{
 .lang{
   padding: 10px;
 }
+.svg-img{
+  height: 250px; 
+    width: 250px;
+}
 @media (min-width: 769px) {
   .header,
   .main-nav {
